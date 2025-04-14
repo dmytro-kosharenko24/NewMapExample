@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0ba0ed8c57d754a87e08e3c88bd6a5, type: 3}
+  m_Name: GlobalToolPrefabsTable
+  m_EditorClassIdentifier: 
+  _toolsPair:
+  - ToolEnum: 1
+    Prefab: {fileID: 7416083123733807, guid: c489ba71350bf58439513b621aba7d98, type: 3}
+  - ToolEnum: 2
+    Prefab: {fileID: 4000825252076513572, guid: e9e6492a157e6c64a8aec0616f37eac0, type: 3}
+  - ToolEnum: 3
+    Prefab: {fileID: 2203575773353373354, guid: c27a72ccefc26514fa33e619ebc921c6, type: 3}
+  - ToolEnum: 4
+    Prefab: {fileID: 5281494176267864416, guid: 44a014ef2235a6145af13bc216f9210b, type: 3}
+  - ToolEnum: 5
+    Prefab: {fileID: 9023340312086241820, guid: e74812a07c4b7c945a8f8853617f3dc7, type: 3}
+  - ToolEnum: 6
+    Prefab: {fileID: 624523821815597866, guid: a8ccd769c0e9347458c84d04bbded550, type: 3}
+  - ToolEnum: 7
+    Prefab: {fileID: 4183617059102172139, guid: 1b4493000fa507a4bba219796e217031, type: 3}
+  - ToolEnum: 8
+    Prefab: {fileID: 338596924744363832, guid: b944db9f0b8a09343926cb46644abcd0, type: 3}
+  - ToolEnum: 10
+    Prefab: {fileID: 9023340312086241820, guid: 5b1e0f456dc7aac4a9fa9f2efdb81196, type: 3}
+  - ToolEnum: 9
+    Prefab: {fileID: 2956373509723687203, guid: 45d63614b1419184ebcd3ac05a72ec5d, type: 3}
